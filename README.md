@@ -56,14 +56,7 @@ $ source $(poetry env info --path)/bin/activate
 
 Here's a glimpse of the exciting features we plan to implement in the coming weeks:
 
-| Task                  | Description                                                | Status      |
-| ------------------------- | ---------------------------------------------------------- | ----------- |
-| Symptom Triage            | Implement a feature for users to inquire about symptoms.    | In Progress |
-| Medication Information    | Develop functionality for users to seek details on medications. | Planned     |
-| Appointment Scheduling    | Enable users to schedule medical appointments through the chatbot. | Planned     |
-| Wellness Tips             | Provide users with general health tips and preventive measures. | Planned     |
-| Integration with Databases | Integrate with medical knowledge bases for enhanced information retrieval. | Planned     |
-| User Feedback Mechanism   | Implement a system for users to provide feedback on the chatbot's responses. | Planned     |
+
 
 ## Citation
 
